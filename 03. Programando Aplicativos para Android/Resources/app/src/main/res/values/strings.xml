@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Resources</string>
+    <string name="screen_text">Hi Android!</string>
+</resources>
