@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7a6d56c-ccaf-4f88-bc95-2531d4a0a8e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/androidTest/java/br/com/softblue/primeiroprojeto/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/java/br/com/softblue/primeiroprojeto/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/app/src/test/java/br/com/softblue/primeiroprojeto/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-02/PrimeiroProjeto/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/phone/java/br/com/softblue/android/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/app/src/tablet/java/br/com/softblue/android/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Configurando o Ambiente de Desenvolvimento/Mod-02__Cf-07/Build/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/androidTest/java/com/example/activitylifecycle/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/java/com/example/activitylifecycle/Main2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/java/com/example/activitylifecycle/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/app/src/test/java/com/example/activitylifecycle/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/ActivityLifeCycle/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/androidTest/java/com/example/erros/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/java/com/example/erros/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/app/src/test/java/com/example/erros/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Erros/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/libs/commons-lang3-3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/androidTest/java/com/example/jars/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/java/com/example/jars/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/app/src/test/java/com/example/jars/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/JARs/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/androidTest/java/com/example/logging/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/java/com/example/logging/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/app/src/test/java/com/example/logging/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Logging/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-02.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-03.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-04.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-05.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-06.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-07.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-08.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-09.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Mod-03__Cf-10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/androidTest/java/com/example/myintenttestapp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/java/com/example/myintenttestapp/ImageActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/java/com/example/myintenttestapp/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/drawable-v24/android_showmetech2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/layout/activity_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/app/src/test/java/com/example/myintenttestapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MyIntentTestApp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/androidTest/java/com/example/mybundleintenttestapp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/java/com/example/mybundleintenttestapp/Activity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/java/com/example/mybundleintenttestapp/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/layout/activity_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/app/src/test/java/com/example/mybundleintenttestapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/MybundleIntentTestApp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/androidTest/java/com/example/resources/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/java/com/example/resources/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/app/src/test/java/com/example/resources/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/Resources/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/androidTest/java/com/example/runtimepermissions/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/java/com/example/runtimepermissions/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/app/src/test/java/com/example/runtimepermissions/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/RuntimePermissions/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/androidTest/java/com/example/supportapi/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/java/com/example/supportapi/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/app/src/test/java/com/example/supportapi/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/SupportAPI/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/java/com/example/myapplication/SecondActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/layout/activity_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Programando Aplicativos para Android/activities/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1359" />
+    <option name="y" value="-548" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7a6d56c-ccaf-4f88-bc95-2531d4a0a8e3" name="Default Changelist" comment="" />
+      <created>1581742539374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581742539374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-556" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32982087" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
