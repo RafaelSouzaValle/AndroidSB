@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UI LinearLayout App</string>
+    <string name="choose_your_favorite_programming_language">Choose your favorite programming language</string>
+    <string name="java">Java</string>
+    <string name="cs">C#</string>
+    <string name="python">Python</string>
+    <string name="choose_your_favorite_paradigm">Choose your favorite Paradigm</string>
+    <string name="structured">Structured</string>
+    <string name="oop">OOP</string>
+    <string name="clear">Clear</string>
+    <string name="ok">OK</string>
+</resources>
