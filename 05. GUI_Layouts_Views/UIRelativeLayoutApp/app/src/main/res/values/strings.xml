@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI Relative Layout App</string>
+    <string name="personal_data">Personal Data</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="hint_edittext_name">Type your name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:background="#cccccc"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textview_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/personal_data"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginTop="@dimen/title_margintop"/>
+
+    <TextView
+        android:id="@+id/textview_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:layout_marginTop="@dimen/space_between_labels"
+        android:layout_below="@+id/textview_title"
+        android:labelFor="@id/edittext_name"/>
+
+    <EditText
+        android:id="@+id/edittext_name"
+        android:layout_width="@dimen/edittext_width"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textview_name"
+        android:layout_toRightOf="@+id/textview_lastname"
+        android:layout_alignParentRight="true"
+        android:inputType="text"
+        android:hint="@string/name"
+        tools:ignore="Autofill,RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/textview_lastname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/last_name"
+        android:layout_below="@+id/textview_name"
+        android:layout_marginTop="@dimen/space_between_labels"
+        android:labelFor="@+id/edittext_lastname"/>
+
+    <EditText
+        android:id="@+id/edittext_lastname"
+        android:layout_width="@dimen/edittext_width"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textview_lastname"
+        android:layout_toRightOf="@id/textview_lastname"
+        android:layout_alignParentRight="true"
+        tools:ignore="Autofill,RtlHardcoded"
+        android:hint="@string/last_name"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/button_ok"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:text="@string/ok"
+        android:layout_marginTop="@dimen/space_between_labels"
+        android:layout_below="@+id/edittext_lastname"
+        android:layout_alignParentRight="true"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:id="@+id/button_cancel"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel"
+        android:layout_marginTop="@dimen/space_between_labels"
+        android:layout_alignBaseline="@+id/button_ok"
+        android:layout_toLeftOf="@+id/button_ok"/>
+
+</RelativeLayout>
