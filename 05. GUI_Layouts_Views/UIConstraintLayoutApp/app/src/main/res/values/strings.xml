@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI ConstraintLayout App</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="insert_your_e_mail_here">insert your e-mail here</string>
+    <string name="insert_your_name">Insert your name</string>
+    <string name="btn_01">Hi!</string>
+    <string name="btn02">Hello!</string>
+</resources>
