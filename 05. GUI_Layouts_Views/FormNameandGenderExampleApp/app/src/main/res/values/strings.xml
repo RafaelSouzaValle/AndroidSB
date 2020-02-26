@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Form Name and Gender Example App</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+</resources>
