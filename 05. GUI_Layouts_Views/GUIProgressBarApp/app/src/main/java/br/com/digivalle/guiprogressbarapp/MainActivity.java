@@ -1,3 +1,10 @@
+/**
+ *
+ *
+ * @author: Rafael Souza Valle - rafaelsouzavalle@gmail.com
+ *
+ */
+
 package br.com.digivalle.guiprogressbarapp;
 
 import androidx.appcompat.app.AppCompatActivity;
