@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment Dynamic App</string>
+    <string name="right_fragment">Right Fragment</string>
+    <string name="left_fragment">Left Fragment</string>
+</resources>
