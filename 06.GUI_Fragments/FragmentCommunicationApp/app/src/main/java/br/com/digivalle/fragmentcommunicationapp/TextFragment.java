@@ -9,29 +9,25 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-
 public class TextFragment extends Fragment implements View.OnClickListener {
 
     private EditText editText;
     private OnInvertListener listener;
 
     @Override
-    public void onAttach(@NonNull Context activity) {
+    public void onAttach(Context activity) {
         super.onAttach(activity);
 
-        if(!(activity instanceof OnInvertListener)) {
-            throw new RuntimeException("Activity must implement an interface TextFragment.OnInvertListener");
+        if (!(activity instanceof OnInvertListener)) {
+            throw new RuntimeException("A activity deve implementar a interface TextFragment.OnInvertListener");
         }
 
         listener = (OnInvertListener) activity;
     }
 
-    @Nullable
     @Override
-    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_text,container,false);
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        View view = inflater.inflate(R.layout.fragment_text, container, false);
 
         editText = view.findViewById(R.id.editTextTextPersonName);
 
@@ -49,8 +45,7 @@ public class TextFragment extends Fragment implements View.OnClickListener {
         }
     }
 
-
     public interface OnInvertListener {
-        public void onInvert(String text);
+        void onInvert(String text);
     }
 }

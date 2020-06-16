@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
     android:orientation="vertical"
     android:padding="10dp">
 
@@ -18,7 +17,8 @@
         android:id="@+id/result_fragment"
         android:name="br.com.digivalle.fragmentcommunicationapp.ResultFragment"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
         tools:layout="@layout/fragment_result" />
 
 </LinearLayout>
