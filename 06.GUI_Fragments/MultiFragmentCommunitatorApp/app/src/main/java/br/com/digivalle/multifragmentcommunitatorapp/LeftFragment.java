@@ -1,6 +1,7 @@
 package br.com.digivalle.multifragmentcommunitatorapp;
 
 import android.content.Context;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +15,7 @@ public class LeftFragment extends Fragment {
 
     private Communicator communicator;
     private String contentText;
+    private int colorId = Color.GREEN;
 
     @Override
     public void onAttach(@NonNull Context activity) {
@@ -35,7 +37,8 @@ public class LeftFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 contentText = "Text 01";
-                communicator.changeText();
+                colorId = Color.BLACK;
+                communicator.changeContent();
             }
         });
 
@@ -43,7 +46,8 @@ public class LeftFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 contentText = "Text 02";
-                communicator.changeText();
+                colorId = Color.BLUE;
+                communicator.changeContent();
             }
         });
 
@@ -51,7 +55,8 @@ public class LeftFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 contentText = "Text 03";
-                communicator.changeText();
+                colorId = Color.YELLOW;
+                communicator.changeContent();
             }
         });
 
@@ -59,7 +64,8 @@ public class LeftFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 contentText = "Text 04";
-                communicator.changeText();
+                colorId = Color.GREEN;
+                communicator.changeContent();
             }
         });
 
@@ -68,5 +74,9 @@ public class LeftFragment extends Fragment {
 
     public String getContentText() {
         return contentText;
+    }
+
+    public int getColorId() {
+        return colorId;
     }
 }

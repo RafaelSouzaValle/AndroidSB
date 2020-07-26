@@ -1,6 +1,7 @@
 package br.com.digivalle.multifragmentcommunitatorapp;
 
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
@@ -11,6 +12,7 @@ public class MainActivity extends AppCompatActivity implements Communicator {
 
     LeftFragment leftFragment = new LeftFragment();
     RightFragment rightFragment = new RightFragment();
+    View view;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements Communicator {
     }
 
     @Override
-    public void changeText() {
-        rightFragment.setTextView(leftFragment.getContentText());
+    public void changeContent() {
+        rightFragment.setContentView(leftFragment.getContentText(), leftFragment.getColorId());
     }
 }
