@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multi Fragment Increment App</string>
+    <string name="increment">Increment</string>
+    <string name="num_sample">1</string>
+</resources>
