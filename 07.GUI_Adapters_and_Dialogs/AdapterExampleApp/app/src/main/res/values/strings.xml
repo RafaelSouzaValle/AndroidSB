@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Adapter Example App</string>
+
+    <string-array name="products">
+        <item>Computer</item>
+        <item>Smartphone</item>
+        <item>Notebook</item>
+        <item>Switch</item>
+        <item>Keyboard</item>
+        <item>Mouse</item>
+        <item>Screen Monitor</item>
+
+    </string-array>
+</resources>
