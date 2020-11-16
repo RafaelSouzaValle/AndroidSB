@@ -8,13 +8,21 @@ import android.widget.ArrayAdapter;
 
 public class MainActivity extends ListActivity {
 
-    private ArrayAdapter<CharSequence> adapter;
+    //private ArrayAdapter<CharSequence> adapter;
+    private ArrayAdapter<String> adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        adapter = ArrayAdapter.createFromResource(this,R.array.products, android.R.layout.simple_list_item_1);
+        //adapter = ArrayAdapter.createFromResource(this,R.array.products, android.R.layout.simple_list_item_1);
+        adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1);
+
+        adapter.add("Keyboard");
+        adapter.add("mouse");
+        adapter.add("Memory");
+
         setListAdapter(adapter);
+
     }
 }
