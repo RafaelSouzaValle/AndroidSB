@@ -4,7 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.ListActivity;
 import android.os.Bundle;
+import android.view.Gravity;
+import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.ListView;
+import android.widget.Toast;
 
 public class MainActivity extends ListActivity {
 
@@ -23,6 +27,14 @@ public class MainActivity extends ListActivity {
         adapter.add("Memory");
 
         setListAdapter(adapter);
+    }
 
+
+    @Override
+    protected void onListItemClick(ListView l, View v, int position, long id) {
+        String item = adapter.getItem(position);
+        Toast toast = Toast.makeText(this, "Selected item " + item, Toast.LENGTH_LONG);
+        toast.setGravity(Gravity.CENTER_VERTICAL,0,0);
+        toast.show();
     }
 }
