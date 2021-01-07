@@ -40,15 +40,31 @@ public class ProductAdapter extends BaseAdapter {
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-        View view = inflater.inflate(R.layout.product_adapter_layout, parent, false);
+
+        View view = convertView;
+        ViewHolder viewHolder;
+
+        if(view == null) {
+            view = inflater.inflate(R.layout.product_adapter_layout, parent, false);
+            viewHolder = new ViewHolder();
+            viewHolder.textName = view.findViewById(R.id.txt_name);
+            viewHolder.textPrice = view.findViewById(R.id.txt_price);
+            view.setTag(viewHolder);
+
+        } else {
+            viewHolder = (ViewHolder) view.getTag();
+        }
+
         Product product = products.get(position);
 
-        TextView txtNome = view.findViewById(R.id.txt_name);
-        TextView txtPrice = view.findViewById(R.id.txt_price);
-
-        txtNome.setText(product.getName());
-        txtPrice.setText(nf.format(product.getPrice()));
+        viewHolder.textName.setText(product.getName());
+        viewHolder.textPrice.setText(nf.format(product.getPrice()));
 
         return view;
+    }
+
+    private static class ViewHolder{
+        public TextView textName;
+        public TextView textPrice;
     }
 }
