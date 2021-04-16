@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".MainActivity">
+
+    <fragment
+        android:id="@+id/fragment_list"
+        android:name="br.com.digivalle.listfragment.FoodFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        tools:layout="@android:layout/simple_list_item_1"/>
+
+    <fragment
+        android:id="@+id/fragment_text"
+        android:name="br.com.digivalle.listfragment.TextFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:layout="@layout/fragment_text"/>
+
+
+</LinearLayout>

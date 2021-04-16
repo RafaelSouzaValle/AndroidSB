@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">List Fragment</string>
+    
+    <string-array name="food_names">
+        <item>Hamburger</item>
+        <item>Cheeseburger</item>
+        <item>Salad-burger</item>
+        <item>Hot-Dog</item>
+    </string-array>
+
+    <string-array name="food_prices">
+        <item>10.80</item>
+        <item>12.70</item>
+        <item>13.50</item>
+        <item>9.30</item>
+    </string-array>
+</resources>
