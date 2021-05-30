@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Dialogs App</string>
+
+    <string-array name="bands">
+        <item>Led Zeppelin</item>
+        <item>Black Sabbath</item>
+        <item>Deep Purple</item>
+        <item>Motorhead</item>
+    </string-array>
 </resources>

@@ -17,4 +17,9 @@ public class MainActivity extends AppCompatActivity {
         MyDialogFragment dialog = new MyDialogFragment();
         dialog.show(getSupportFragmentManager(), "dialog");
     }
+
+    public void openSimpleDialog(View view) {
+        SimpleDialogFragment dialog = new SimpleDialogFragment();
+        dialog.show(getSupportFragmentManager(), "simpleDialog");
+    }
 }
