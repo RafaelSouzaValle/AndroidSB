@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -43,10 +44,11 @@ public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.ItemHolder> {
 
     @Override
     public int getItemCount() {
+
         return items.size();
     }
 
-    public static class ItemHolder extends RecyclerView.ViewHolder {
+    public class ItemHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
         public TextView txtId;
         public TextView txtName;
 
@@ -54,6 +56,16 @@ public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.ItemHolder> {
             super(itemView);
             txtId = itemView.findViewById(android.R.id.text1);
             txtName = itemView.findViewById(android.R.id.text2);
+            itemView.setOnClickListener(this);
+        }
+
+
+        @Override
+        public void onClick(View v) {
+            int pos = getAdapterPosition();
+            items.remove(pos);
+            Toast.makeText(context, "Item removed: " + pos, Toast.LENGTH_LONG).show();
+            notifyItemRemoved(pos);
         }
     }
 }
