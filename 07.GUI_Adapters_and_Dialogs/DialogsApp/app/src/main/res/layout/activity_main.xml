@@ -18,4 +18,16 @@
         android:text="Open Simple Dialog"
         android:onClick="openSimpleDialog"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Dialog Radio"
+        android:onClick="openRadioDialog"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Dialog Checkbox"
+        android:onClick="openCheckboxDialog"/>
+
 </LinearLayout>

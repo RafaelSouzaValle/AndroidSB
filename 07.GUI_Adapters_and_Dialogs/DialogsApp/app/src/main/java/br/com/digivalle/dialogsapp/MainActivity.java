@@ -22,4 +22,14 @@ public class MainActivity extends AppCompatActivity {
         SimpleDialogFragment dialog = new SimpleDialogFragment();
         dialog.show(getSupportFragmentManager(), "simpleDialog");
     }
+
+    public void openRadioDialog(View view) {
+        RadioDialogFragment dialog = new RadioDialogFragment();
+        dialog.show(getSupportFragmentManager(), "radioDialog");
+    }
+
+    public void openCheckboxDialog(View view) {
+        CheckboxDialogFragment dialog = new CheckboxDialogFragment();
+        dialog.show(getSupportFragmentManager(), "checkBoxDialog");
+    }
 }
